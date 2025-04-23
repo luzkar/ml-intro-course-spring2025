@@ -8,4 +8,4 @@ Repository with material for the Diving into Data Science and Machine Learning c
 
 The content of this repository is bound by the following licenses:
 
-* The computer software is licensed under the MIT license.
+* The computer software is licensed under the [MIT](LICENSE.md) license.
