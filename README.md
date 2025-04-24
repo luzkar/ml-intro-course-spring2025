@@ -6,7 +6,7 @@ Repository with material for the Diving into Data Science and Machine Learning c
 
 :date:
 
-Jupyter Notebook 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## License
 
