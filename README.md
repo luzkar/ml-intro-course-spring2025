@@ -11,7 +11,7 @@ Important dates
 
 :date: `16-05-2025`  Introduction to regression and classification machine learning methods
 
-:date: `30-05-2025` Evaluating your ML models (cross-validation, performance and metrics evaluation) and project set-up
+:date: `30-05-2025` Evaluating your ML models (cross-validation, performance and metrics evaluation)
 
 :date: `13-06-2025` Presenting the final project by teams
 
