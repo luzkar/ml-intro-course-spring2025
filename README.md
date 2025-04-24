@@ -4,6 +4,8 @@
 
 Repository with material for the Diving into Data Science and Machine Learning course at ICN2
 
+:date:
+
 ## License
 
 The content of this repository is bound by the following licenses:
