@@ -5,8 +5,7 @@
 Repository with material for the Diving into Data Science and Machine Learning course at ICN2
 Important dates
 
-:date: > 25-04-2025 
-Introduction (git, good software practices)
+:date:  `25-04-2025` Introduction (git, good software practices)
 
 :date: 09-05-2025 Data Manipulation (Exploratory data analysis)
 
